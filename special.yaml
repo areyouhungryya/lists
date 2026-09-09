@@ -27,7 +27,7 @@ payload:
   - DOMAIN-SUFFIX,okx.com
   - DOMAIN-SUFFIX,bybit.com
   - DOMAIN-SUFFIX,bybitglobal.com
-  - DOMAIN-SUFFIX,kraken.com
+  #- DOMAIN-SUFFIX,kraken.com
   - DOMAIN-SUFFIX,bybit.biz
   - DOMAIN-SUFFIX,binancecnt.com
   - DOMAIN-SUFFIX,bnappweb.biz
