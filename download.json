@@ -1,0 +1,14 @@
+{
+  "version": 5,
+  "rules": [
+    {
+      "domain_suffix": [
+        "k2s.cc",
+        "filestore.app"
+      ],
+      "domain_keyword": [
+        "pikpak"
+      ]
+    }
+  ]
+}
