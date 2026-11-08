@@ -1,0 +1,17 @@
+
+{
+  "version": 5,
+  "rules": [
+    {
+      "domain": [
+        "dm.wo.com.cn",
+        "a.fxltsbl.com",
+        "b.fxltsbl.com",
+        "auc.fxltsbl.com",
+        "zzhc.vnet.cn",
+        "vmd.vivo.com.cn",
+        "vcodevisual.vivo.xyz"
+      ]
+    }
+  ]
+}
